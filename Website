@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to Yuma's Elite Group, your trusted real estate partner in Yuma, AZ. Find your dream home today!">
+    <meta name="keywords" content="Yuma real estate, Yuma homes, Yuma property, Billie Ward, Yuma's Elite Group">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Yuma's Elite Group - Home">
+    <meta property="og:description" content="Your trusted real estate partner in Yuma, AZ.">
+    <meta property="og:image" content="images/home1.jpg">
+    <meta property="og:url" content="https://www.yumaelitegroup.com">
+    <title>Yuma's Elite Group - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Yuma's Elite Group</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="listings.html">Listings</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Welcome to Yuma's Premier Realty Group</h2>
+            <p>Your dream home is just a click away.</p>
+        </section>
+        <section class="featured-listings">
+            <h3>Featured Listings</h3>
+            <!-- Featured listings will be dynamically added here by JavaScript -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Yuma's Elite Group - Billie Ward | <a href="contact.html">Contact Us</a></p>
+        <div class="social-media">
+            <!-- Social media links -->
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
